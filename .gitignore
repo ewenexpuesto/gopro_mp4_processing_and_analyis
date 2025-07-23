@@ -1,4 +1,5 @@
-data/
 data1/
 data2/
 .venv/
+mp4_overlay/*
+!mp4_overlay/README.md
